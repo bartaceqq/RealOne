@@ -1,0 +1,4 @@
+*WITCH*     Do you have the Key?
+/YOU/       Not right now
+*WITCH*     I lost it somewhere near the well
+/YOU/       I am going to go look for it
